@@ -6,3 +6,6 @@ Más sobre CHDK : http://chdk.wikia.com/wiki/CHDK
 En lenguaje Basic, permite automatizar la toma de fotografías en rangos de hora. Por defecto desde las 8Am a las 8PM. En forma infinita hasta completar la memoria disponible. 
 
 
+## Instalación
+- Copiar el script dentro de la carpeta "Scripts" del directorio CHDK que instalaste en tu SD. 
+- Al arrancar ya estará disponible en el menú de scripts de tu cámara. 
