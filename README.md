@@ -10,6 +10,4 @@ En lenguaje Basic, permite automatizar la toma de fotografías en rangos de hora
 - Copiar el script dentro de la carpeta "Scripts" del directorio CHDK que instalaste en tu SD. 
 - Al arrancar ya estará disponible en el menú de scripts de tu cámara. 
 
-
-![Image](https://github.com/dalacost/CHDK-Scripts/blob/master/Screenshots/selecting.png)
-![Image](https://github.com/dalacost/CHDK-Scripts/blob/master/Screenshots/running.png)
+![Image](https://github.com/dalacost/CHDK-Scripts/blob/master/Screenshots/running.jpg)
